@@ -1,16 +1,26 @@
-## Hi there 👋
+## 🔥 Featured Project: WikiPulse
 
-<!--
-**bhuvan1085/bhuvan1085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### *Analyzing Wikipedia edit patterns around real-world events*
 
-Here are some ideas to get you started:
+<div align="center">
+  
+[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bhuvan1085.streamlit.app)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhuvan1085/wiki-event-analysis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+**Live Demo:** [https://bhuvan1085.streamlit.app](https://bhuvan1085.streamlit.app)
+
+**What I built:** A complete end-to-end data analytics project
+
+| Phase | Technology | What I Did |
+|-------|------------|-------------|
+| Data Collection | Python, Wikipedia API | Fetched 100K+ revisions across 8 topics |
+| Data Processing | pandas, SQLite | Cleaned data, created daily aggregates |
+| Statistical Analysis | SciPy, statsmodels | Ran lag correlation (-5 to +5 days) |
+| Visualization | Plotly, Streamlit | Built interactive dashboard |
+| Deployment | Streamlit Cloud | Published live web app |
+
+**Key Finding:** 95% of events showed significant correlation — most edit spikes happen **before** the event!
+
+**Try it here:** 👉 [bhuvan1085.streamlit.app](https://bhuvan1085.streamlit.app) 👈
