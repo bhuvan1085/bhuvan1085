@@ -35,7 +35,7 @@
 
 ## 🔥 Featured Project: WikiPulse
 
-**Live Demo:** [bhuvan1085.streamlit.app](https://bhuvan1085.streamlit.app)
+**Live Demo:** [bhuvan1085.streamlit.app](https://wikipulseanalysis.streamlit.app/)
 
 **What it does:** Analyzes whether Wikipedia editors anticipate or react to real-world events using lag correlation.
 
